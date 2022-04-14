@@ -6,23 +6,23 @@
 <hr>
 
 <h1 align="center">指令</h1>
-✅endedGiveawayReactionAdded
-✅giveawayEnded
-✅giveawayReactionAdded
-✅giveawayReactionRemoved
-✅giveawayRerolled
-✅interactionCreate
-✅messageCreate
-✅ready
-✅create
-✅edit
-✅end
-✅help
-✅invite
-✅list
-✅ping
-✅reroll
-✅start
+✅endedGiveawayReactionAdded <br>
+✅giveawayEnded <br>
+✅giveawayReactionAdded <br>
+✅giveawayReactionRemoved <br>
+✅giveawayRerolled <br>
+✅interactionCreate <br>
+✅messageCreate<br>
+✅ready <br>
+✅create<br>
+✅edit<br>
+✅end<br>
+✅help<br>
+✅invite<br>
+✅list<br>
+✅ping<br>
+✅reroll<br>
+✅start<br>
 <hr>
 <br>
 <hr>
